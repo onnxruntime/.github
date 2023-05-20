@@ -9,12 +9,16 @@
 
 ## Get Started & Resources
 
-* **General Information**: [onnxruntime.ai](https://onnxruntime.ai)
+* **Website**: [onnxruntime.ai](https://onnxruntime.ai)
 
-* **Usage documention and tutorials**: [onnxruntime.ai/docs](https://onnxruntime.ai/docs)
+* **GitHub repository**: [https://github.com/microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 
-* **YouTube video tutorials**: [youtube.com/@ONNXRuntime](https://www.youtube.com/@ONNXRuntime)
+* **Documention and tutorials**: [onnxruntime.ai/docs](https://onnxruntime.ai/docs)
 
-* **Companion sample repositories**: 
+* **Blogs**: [onnxruntime.ai/blogs](https://onnxruntime.ai/blogs)
+
+* **Video tutorials**: [youtube.com/@ONNXRuntime](https://www.youtube.com/@ONNXRuntime)
+
+* **Sample and tutorial repositories**: 
   - ONNX Runtime Inferencing: [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
   - ONNX Runtime Training: [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples)
