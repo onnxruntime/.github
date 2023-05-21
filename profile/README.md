@@ -11,7 +11,7 @@
 
 * **Website**: [onnxruntime.ai](https://onnxruntime.ai)
 
-* **GitHub repository**: [https://github.com/microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+* **GitHub repository**: [github.com/microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 
 * **Documention and tutorials**: [onnxruntime.ai/docs](https://onnxruntime.ai/docs)
 
