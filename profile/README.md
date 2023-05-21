@@ -17,7 +17,7 @@
 
 * **Blogs**: [onnxruntime.ai/blogs](https://onnxruntime.ai/blogs)
 
-* **Video tutorials**: [youtube.com/@ONNXRuntime](https://www.youtube.com/@ONNXRuntime)
+* **Video tutorials**: [youtube.com/onnxruntime](https://www.youtube.com/onnxruntime)
 
 * **Sample and tutorial repositories**: 
   - ONNX Runtime Inferencing: [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
