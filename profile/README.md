@@ -9,12 +9,8 @@
 
 ## Get Started & Resources
 
-[![ONNXRuntime Website](https://img.shields.io/badge/ONNXRuntime.ai-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&link=https://onnxruntime.ai)](https://onnxruntime.ai)
-[![ONNXRuntime Docs](https://img.shields.io/badge/Documentation_and_Tutorials-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white&link=onnxruntime.ai/docs)](onnxruntime.ai/docs)
-[![ONNXRuntime Youtube](https://img.shields.io/badge/Video_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/onnxruntime)](https://www.youtube.com/onnxruntime)
-[![ONNXRuntime Blogs](https://img.shields.io/badge/Blogs-258ffa?style=for-the-badge&logo=Microsoft&logoColor=white&link=onnxruntime.ai/blogs)](onnxruntime.ai/blogs)
+[![ONNXRuntime GitHub](https://img.shields.io/badge/Microsoft-ONNXRuntime-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=github.com/microsoft/onnxruntime)](github.com/microsoft/onnxruntime) [![ONNXRuntime Website](https://img.shields.io/badge/ONNXRuntime.ai-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&link=https://onnxruntime.ai)](https://onnxruntime.ai) [![ONNXRuntime Docs](https://img.shields.io/badge/Documentation_and_Tutorials-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white&link=onnxruntime.ai/docs)](onnxruntime.ai/docs) [![ONNXRuntime Youtube](https://img.shields.io/badge/Video_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/onnxruntime)](https://www.youtube.com/onnxruntime) [![ONNXRuntime Blogs](https://img.shields.io/badge/Blogs-258ffa?style=for-the-badge&logo=Microsoft&logoColor=white&link=onnxruntime.ai/blogs)](onnxruntime.ai/blogs)
 
-**Sample and tutorial repositories:**
-
-[![ONNXRuntime Docs](https://img.shields.io/badge/ONNX_RUNTIME_Inferencing-666666?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://github.com/microsoft/onnxruntime-inference-examples)](https://github.com/microsoft/onnxruntime-inference-examples)
-[![ONNXRuntime Docs](https://img.shields.io/badge/ONNX_RUNTIME_Training-666666?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://github.com/microsoft/onnxruntime-inference-examples)](https://github.com/microsoft/onnxruntime-inference-examples)
+**Sample and tutorial repositories**: 
+  - ONNX Runtime Inferencing: [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
+  - ONNX Runtime Training: [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples)
